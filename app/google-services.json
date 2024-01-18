@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "413197666393",
+    "firebase_url": "https://new-fyp-c8ff5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "new-fyp-c8ff5",
+    "storage_bucket": "new-fyp-c8ff5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413197666393:android:e8988ef65630ea3f124948",
+        "android_client_info": {
+          "package_name": "com.example.smartiotcontroller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413197666393-qh2vis6fuc5sd0qidreghucm9rh56kan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR9cgUc7J5mZsgKvipPqKZe1XfD4VAZdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413197666393-qh2vis6fuc5sd0qidreghucm9rh56kan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
